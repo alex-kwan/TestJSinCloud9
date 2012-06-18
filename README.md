@@ -1,4 +1,4 @@
-
+ohai!
 
 There are a couple of things you should do first, before you can use all of Git's power:
 
